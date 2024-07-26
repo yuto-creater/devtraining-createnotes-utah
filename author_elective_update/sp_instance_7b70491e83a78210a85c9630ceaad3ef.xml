@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">43295ae1094232007f44e1046c8ff615</sp_column>
+        <sp_widget/>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 08:35:33</sys_created_on>
+        <sys_id>7b70491e83a78210a85c9630ceaad3ef</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Important Stuff</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sp_instance_7b70491e83a78210a85c9630ceaad3ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 02:32:34</sys_updated_on>
+        <title>Important Stuff</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"title": {
+		"value": "Important Stuff",
+		"displayValue": "Important Stuff"
+	},
+	"maximum_records_to_display": {
+		"value": "5",
+		"displayValue": "5"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=7b70491e83a78210a85c9630ceaad3ef"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</application>
+        <file_path/>
+        <instance_id>2309e9a61b8d4a1832182f8dee4bcb9b</instance_id>
+        <instance_name>dev249093</instance_name>
+        <name>sp_instance_7b70491e83a78210a85c9630ceaad3ef</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;43295ae1094232007f44e1046c8ff615&lt;/sp_column&gt;&lt;sp_widget/&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-07-24 08:35:33&lt;/sys_created_on&gt;&lt;sys_id&gt;7b70491e83a78210a85c9630ceaad3ef&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Important Stuff&lt;/sys_name&gt;&lt;sys_package display_value="CreateNotes" source="x_snc_createnotes"&gt;df5fd9a5090232007f44e1046c8ff69f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="CreateNotes"&gt;df5fd9a5090232007f44e1046c8ff69f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_7b70491e83a78210a85c9630ceaad3ef&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-07-25 02:32:34&lt;/sys_updated_on&gt;&lt;title&gt;Important Stuff&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"title": {
+		"value": "Important Stuff",
+		"displayValue": "Important Stuff"
+	},
+	"maximum_records_to_display": {
+		"value": "5",
+		"displayValue": "5"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=7b70491e83a78210a85c9630ceaad3ef"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1808420164</payload_hash>
+        <record_name>Important Stuff</record_name>
+        <reverted_from/>
+        <source>3295b4d283ef4210a85c9630ceaad344</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 03:01:04</sys_created_on>
+        <sys_id>e58d386a832f0210a85c9630ceaad3fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190e7d5c2070000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 03:01:04</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>800738ee756b0210437d9a8aa3595fcd</update_guid>
+        <update_guid_history>800738ee756b0210437d9a8aa3595fcd:-1949477974,800738ee756b0210437d9a8aa3595fcd:-1949477974,5c5630aa186b0210c713c2dad53152b7:-2092014518,b370491e09a782103693c304aa863df3:-1393638948</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Important Stuff">585ee1b283e30210a85c9630ceaad31b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 01:12:43</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>550f779b2d3d42968c0eb6db840cf1a4</sys_id>
+        <sys_metadata>7b70491e83a78210a85c9630ceaad3ef</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Important Stuff</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_scope_delete display_value="">64daa03572704d49a928bf08a985d6f9</sys_scope_delete>
+        <sys_update_name>sp_instance_7b70491e83a78210a85c9630ceaad3ef</sys_update_name>
+        <sys_update_version display_value="sp_instance_7b70491e83a78210a85c9630ceaad3ef">e58d386a832f0210a85c9630ceaad3fb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 01:12:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
